@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+#container #main-visual img{width: 1170px; height: 443px;}
+.top-content > p:first-child{ float: left; padding-left: 425px; margin-right: 425px; margin-top: 50px; margin-bottom: 50px;}
+#container #contents .top-content {position: relative; overflow: hidden;}
+/* #container #contents .top-content > ul{width: 1170px;} */
+#container #contents .top-content > ul > li{width:228px; float: left; text-align: center; margin-right: 5px;}
+
+#container #contents .middle-content > p:first-child{ float: left; padding-left: 450px; margin-right: 500px; margin-top: 50px; margin-bottom: 50px;}
+/* #container #contents content-wrap{width: 1170px;}
+#container #contents .content-wrap-1 ul > li{width: 290px; float: left;} */
+
+
+.middle-content > ul > li {float: left; width: 290px; position: relative;}
+.middle-content > ul > li.event-1, .middle-content > ul > li.event-2{margin-right: 120px;}
+.middle-content > ul > li h3{font-size: 20px; font-weight: bold; padding-top: 20px; padding-bottom: 20px;}
+.middle-content > ul > li > a > p + h3 + p + p + img{position: absolute;top: 300px;left: 236px;}
+.middle-content > ul > li > a > p + h3 + p{padding-bottom: 35px;}
+.middle-content > ul > li > a > p + h3 + p + p{padding-bottom: 250px;}
+
+
+/* .content-wrap-1 ul {float: left; width: 290px; margin-left: 20px;position: relative;}
+.content-wrap-1 ul .title{font-size: 18px; font-weight: bold; padding-top: 20px; padding-bottom: 20px;}
+.content-wrap-1 ul span{font-size: 14px;}
+.content-wrap-1 ul .sweet{font-weight: 16px; margin-top: 20px; margin-bottom: 300px;}
+.content-wrap-1 ul img:last-child{position: absolute;top: 300px;left: 236px;}
+
+.content-wrap-2 ul {float: left; width: 290px; margin-left: 50px; position: relative;}
+.content-wrap-2 ul .title{font-size: 18px; font-weight: bold; padding-top: 20px; padding-bottom: 20px;}
+.content-wrap-2 ul span{font-size: 14px;}
+.content-wrap-2 ul .sweet{font-weight: 16px; margin-top: 20px; margin-bottom: 300px;}
+.content-wrap-2 ul img:last-child{position: absolute;top: 300px;left: 236px;}
+
+.content-wrap-3 ul {float: left; width: 290px; margin-left: 20px; position: relative;}
+.content-wrap-3 ul .title{font-size: 18px; font-weight: bold; padding-top: 20px; padding-bottom: 20px;}
+.content-wrap-3 ul span{font-size: 14px;}
+.content-wrap-3 ul .sweet{font-weight: 16px; margin-top: 20px; margin-bottom: 300px;}
+.content-wrap-3 ul img:last-child{position: absolute; top: 300px;left: 236px;} */
+
+
+
